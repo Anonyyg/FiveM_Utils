@@ -10,5 +10,7 @@ Disclaimer: These resources are utility based at their core, we have taken inspi
 - None
 
 ### Useful Resources
-Runtime Natives - https://runtime.fivem.net/doc/natives/
-FiveM Game References - https://docs.fivem.net/docs/game-references/
+Runtime Natives 
+> https://runtime.fivem.net/doc/natives/
+FiveM Game References
+> https://docs.fivem.net/docs/game-references/
