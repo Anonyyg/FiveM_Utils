@@ -9,5 +9,6 @@ server_scripts {
 }
 
 client_scripts {
-	'client/prevent_pistolwhip.lua'
+	'client/prevent_pistolwhip.lua',
+	'client/disable_crosshair.lua'
 }
